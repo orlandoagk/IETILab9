@@ -1,0 +1,8 @@
+
+‰
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¶óÀä8™àð¼Ö.
+‡
+java:S1488"eImmediately return this expression instead of assigning it to the temporary variable "mongoTemplate".(Å£¦™øÿÿÿÿ8³»ï¼Ö.
+b	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¶óÀä8³»ï¼Ö.
+^
+java:S1874"<Remove this use of "SimpleMongoDbFactory"; it is deprecated.(¤¶ÁÁúÿÿÿÿ8™àð¼Ö.

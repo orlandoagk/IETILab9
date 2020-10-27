@@ -1,0 +1,57 @@
+
+N
+java:S1874c",Remove this use of "Date"; it is deprecated.(øãšÓùÿÿÿÿ8¢¥ö¿Ö.
+N	java:S106@"9Replace this use of System.out or System.err by a logger.(‰ĞŸö
+Z	java:S106j"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ8Ã¸Ê¼Ö.
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+U	java:S106i"9Replace this use of System.out or System.err by a logger.(Ëñ…•8ÅàÉ¼Ö.
+‚
+java:S1192>"`Define a constant instead of duplicating this literal "-------------------------------" 3 times.(ç‘ë®üÿÿÿÿ8Ã¸Ê¼Ö.
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(õ¦Å²şÿÿÿÿ
+N
+java:S1874Z",Remove this use of "Date"; it is deprecated.(Ì…¹”ûÿÿÿÿ8İ î¿Ö.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(ı¶í½ùÿÿÿÿ8œ¤âÀÖ.
+N
+java:S1874Y",Remove this use of "Date"; it is deprecated.(Èó…Èúÿÿÿÿ8Ê”í¿Ö.
+V	java:S106…"9Replace this use of System.out or System.err by a logger.(©Õ¤–8ØòëÀÖ.
+T
+java:S1135}"2Complete the task associated to this TODO comment.(œòìúÿÿÿÿ8ßÖÀÖ.
+N
+java:S1874g",Remove this use of "Date"; it is deprecated.(“Üéûÿÿÿÿ8™û÷¿Ö.
+I
+java:S1874d",Remove this use of "Date"; it is deprecated.(ôÓˆ8„ôö¿Ö.
+N
+java:S1874a",Remove this use of "Date"; it is deprecated.(”Ìôûÿÿÿÿ8¸ùô¿Ö.
+H
+java:S1874]",Remove this use of "Date"; it is deprecated.(’½8×ùğ¿Ö.
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(ç‘ë®üÿÿÿÿ
+[	java:S106‹"9Replace this use of System.out or System.err by a logger.(ö×Éİøÿÿÿÿ8ı‰õÀÖ.
+Z	java:S106o"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8İöØ¼Ö.
+N
+java:S1874b",Remove this use of "Date"; it is deprecated.(Ã£Î¿ÿÿÿÿÿ8°ºõ¿Ö.
+T	java:S106x"9Replace this use of System.out or System.err by a logger.(¶÷ò$8âÔŞÀÖ.
+I
+java:S1874_",Remove this use of "Date"; it is deprecated.(—…Ï8‹òñ¿Ö.
+S	java:S106S"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+N
+java:S1874e",Remove this use of "Date"; it is deprecated.(á‰›¸úÿÿÿÿ8÷™÷¿Ö.
+k
+java:S1192Y"IDefine a constant instead of duplicating this literal "pending" 12 times.(Èó…Èúÿÿÿÿ8øº¯½Ö.
+N
+java:S1874^",Remove this use of "Date"; it is deprecated.(Ê³£ûÿÿÿÿ8¬«ñ¿Ö.
+U	java:S106l"9Replace this use of System.out or System.err by a logger.(¬÷Œ8ÎÂĞ¼Ö.
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106O"9Replace this use of System.out or System.err by a logger.(Èæ ¶ıÿÿÿÿ
+N
+java:S1874z",Remove this use of "Date"; it is deprecated.(‚šÑßşÿÿÿÿ8àÙ¦ÀÖ.
+U	java:S106{"9Replace this use of System.out or System.err by a logger.(ÔÒ·8¼§˜¿Ö.
+Z	java:S106~"9Replace this use of System.out or System.err by a logger.(Ÿë¹¦ıÿÿÿÿ8»…ßÀÖ.
+I
+java:S1874[",Remove this use of "Date"; it is deprecated.(°¨ßÒ8ú±ï¿Ö.
+V	java:S106„"9Replace this use of System.out or System.err by a logger.(©—›Ö8§¢êÀÖ.
+I
+java:S1874\",Remove this use of "Date"; it is deprecated.(Ç¬¼‡8ë—ğ¿Ö.
+I
+java:S1874`",Remove this use of "Date"; it is deprecated.(ğŞÄ–8’Ùó¿Ö.
+[	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(¡óÊùÿÿÿÿ8é…ùÀÖ.
